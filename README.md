@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Trivikram
+I am a Data Science & Analytics Professional on an expedition having deep knowledge and understanding of data.
 
-<!--
-**trivikram18/trivikram18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started my data journey with command-line tools, then transitioned to Data Analytics using statistical packages like SPSS & SAS and now into Machine Learning, and Data Visualization using Python and various other packages, and tools.
 
-Here are some ideas to get you started:
+Skills: Python / Scikit-Learn / Tensorflow 2.0 / SQL / SAS / SPSS / Machine Learning / Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: trivikram.18@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/trivikram18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/trivikramcheedella/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/3vikram18/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trivikram18&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/trivikram18)  
