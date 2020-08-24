@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Trivikram
 I am a Data Science & Analytics Professional on an expedition having deep knowledge and understanding of data.
 
-I started my data journey with command-line tools, then transitioned to Data Analytics using statistical packages like SPSS & SAS and now into Machine Learning, and Data Visualization using Python and various other packages, and tools.
+I started my data journey with command-line tools, then transitioned to Data Analytics using statistical packages like SPSS & SAS and now into Machine Learning, Deep Learning, and Data Visualization using Python and various other packages, and tools.
 
-Skills: Python / Scikit-Learn / Tensorflow 2.0 / SQL / SAS / SPSS / Machine Learning / Deep Learning
+Skills: Python / Scikit-Learn / Tensorflow 2.0 / SQL / SAS / SPSS / Machine Learning / Deep Learning / Visual Basic for Applications (VBA) / Market Research
 
 - 📫 How to reach me: trivikram.18@gmail.com 
 
